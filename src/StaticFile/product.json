@@ -1,0 +1,58 @@
+[
+  {
+    "productId": 1,
+    "name": "Redmi Note 5 Pro",
+    "description": "Redmi Note 5 Pro  Description",
+    "price": 15000,
+    "image": ""
+  },
+  {
+    "productId": 2,
+    "name": "Redmi Note 6 Pro",
+    "description": "Redmi Note 6 Pro Description",
+    "price": 16000,
+    "image": ""
+  },
+  {
+    "productId": 3,
+    "name": "iPhone 6",
+    "description": "iPhone 6 Description",
+    "price": 25000,
+    "image": ""
+  },
+  {
+    "productId": 4,
+    "name": "iPhone 7",
+    "description": "iPhone 7 Description",
+    "price": 35000,
+    "image": ""
+  },
+  {
+    "productId": 5,
+    "name": "iPhone 8",
+    "description": "iPhone 8 Description",
+    "price": 40000,
+    "image": ""
+  },
+  {
+    "productId": 6,
+    "name": "One Plus Nord",
+    "description": "One Plus Nord Description",
+    "price": 35000,
+    "image": ""
+  },
+  {
+    "productId": 7,
+    "name": "Oppo",
+    "description": "Oppo Description",
+    "price": 35000,
+    "image": ""
+  },
+  {
+    "productId": 8,
+    "name": "Vivo",
+    "description": "Vivo Description",
+    "price": 35000,
+    "image": ""
+  }
+]
